@@ -1,6 +1,8 @@
 ## SpatialNetworkStructure
 A heuristic approach for extracting multi-hierarchical spatial network structures from massive origin-destination flow data
 
+![image](https://github.com/gissuifeng/Cultural-Similarity/blob/main/Toolbox%20Description.png)
+
 #### If you want to run the artistic dataset, the operations are as follows:
 Open the config.py configuration file, and comment out the settings in the realData section, as demonstrated below:
 
